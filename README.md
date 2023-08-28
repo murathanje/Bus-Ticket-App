@@ -16,7 +16,8 @@ A platform where users can buy and manage bus tickets and administrators can cre
 - HTML
 - Javascript
 - UI Framework (e.g., Bootstrap)
+  
+![Ekran görüntüsü 2023-08-28 213348](https://github.com/murathanje/Bus-Ticket-App/assets/96828156/aa49b23f-c8b6-4e3d-8606-d271d66d209d)
 
-![Ekran görüntüsü 2023-08-28 213348](https://github.com/murathanje/IBP_Project/assets/96828156/b20a66fb-f676-4d97-8af2-08795377e65c)
 
-![Ekran görüntüsü 2023-08-28 213435](https://github.com/murathanje/IBP_Project/assets/96828156/c4aee62e-0511-43e3-ad4e-968611e57b39)
+![Ekran görüntüsü 2023-08-28 213435](https://github.com/murathanje/Bus-Ticket-App/assets/96828156/b7e04483-ab89-4407-aaf6-5a1ae7ab0317)
